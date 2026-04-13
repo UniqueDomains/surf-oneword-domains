@@ -69,10 +69,10 @@ print(df.head())
 | green.surf     | premium   | $104      | $31.20        | 108            | 99     | 5      | namecheap        |
 | seventeen.surf | available | $41.98    | —             | 84             | 62     | 9      | namecheap        |
 | universal.surf | resell    | —         | —             | 96             | 81     | 9      | Spaceship, Inc.  |
-| free.surf      | premium   | $500      | $45.99        | 88             | 59     | 4      | name.com         |
+| ace.surf       | premium   | $500      | $45.99        | 88             | 57     | 3      | name.com         |
 | athletics.surf | available | $41.98    | —             | 69             | 52     | 9      | namecheap        |
 | audible.surf   | resell    | —         | —             | 112            | 73     | 7      | Spaceship, Inc.  |
-| ace.surf       | premium   | $500      | $45.99        | 88             | 57     | 3      | name.com         |
+| free.surf      | premium   | $500      | $45.99        | 88             | 57     | 4      | name.com         |
 | creative.surf  | available | $41.98    | —             | 92             | 45     | 8      | namecheap        |
 | http.surf      | resell    | —         | —             | 80             | 72     | 4      | Porkbun          |
 | life.surf      | premium   | $104      | $31.20        | 84             | 53     | 4      | namecheap        |
