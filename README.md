@@ -1,10 +1,10 @@
-# Available .SURF One-Word Domains (11,714)
+# Available .SURF One-Word Domains (12,133)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C714%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C133%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .surf one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,714 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,133 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,714 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,133 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/surf`  
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | online.surf        | resell    | —         | —             | 70             | 62     | 7      | Spaceship, Inc. |
 | videos.surf        | premium   | $100      | —             | 52             | 30     | 6      | name.com        |
 | travelers.surf     | available | $2.19     | $32.49        | 58             | 61     | 9      | namesilo        |
-| trades.surf        | resell    | —         | —             | 71             | 26     | 6      | Spaceship, Inc. |
-| KFC.surf           | premium   | $56       | $35           | 74             | 27     | 3      | namecheap       |
-| RedSox.surf        | available | $43.98    | —             | 72             | 60     | 7      | namecheap       |
 | apartments.surf    | resell    | —         | —             | 60             | 21     | 10     | Spaceship, Inc. |
 | tips.surf          | premium   | $500      | —             | 80             | 26     | 4      | name.com        |
-| regions.surf       | available | $43.98    | —             | 64             | 59     | 7      | namecheap       |
-| phones.surf        | resell    | —         | —             | 76             | 19     | 6      | Spaceship, Inc. |
-| schools.surf       | premium   | $500      | —             | 72             | 24     | 7      | name.com        |
-| farmers.surf       | available | $43.98    | —             | 54             | 59     | 7      | namecheap       |
+| RedSox.surf        | available | $43.98    | —             | 72             | 60     | 7      | namecheap       |
 | houses.surf        | resell    | —         | —             | 66             | 18     | 6      | Spaceship, Inc. |
-| girls.surf         | premium   | $250      | —             | 83             | 23     | 5      | name.com        |
-| keepthechange.surf | available | $43.98    | —             | 46             | 59     | 15     | namecheap       |
+| schools.surf       | premium   | $500      | —             | 72             | 24     | 7      | name.com        |
+| regions.surf       | available | $43.98    | —             | 64             | 59     | 7      | namecheap       |
 | tracks.surf        | resell    | —         | —             | 60             | 18     | 6      | Porkbun         |
-| teachers.surf      | premium   | $250      | —             | 56             | 22     | 8      | name.com        |
-| matcha.surf        | available | $43.98    | —             | 86             | 39     | 6      | namecheap       |
+| girls.surf         | premium   | $250      | —             | 83             | 23     | 5      | name.com        |
+| farmers.surf       | available | $43.98    | —             | 54             | 59     | 7      | namecheap       |
 | updates.surf       | resell    | —         | —             | 54             | 15     | 7      | Porkbun         |
+| teachers.surf      | premium   | $250      | —             | 56             | 22     | 8      | name.com        |
+| keepthechange.surf | available | $43.98    | —             | 46             | 59     | 15     | namecheap       |
+| shoppers.surf      | resell    | —         | —             | 64             | 10     | 8      | Spaceship, Inc. |
+| Alexis.surf        | premium   | $96       | $29.50        | 72             | 21     | 6      | namesilo        |
+| whynot.surf        | available | $43.98    | —             | 74             | 39     | 7      | namecheap       |
+| updated.surf       | resell    | —         | —             | 52             | 10     | 7      | Porkbun         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,714 live domains                              |
+| 1,000-row public sample | 12,133 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SURF One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SURF One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
