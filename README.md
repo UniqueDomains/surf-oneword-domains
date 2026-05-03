@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .surf one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,133 domains
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-03  
 **Canonical page:** `https://unique.domains/domains/tld/surf`  
 **Best for:** founders, investors, studios
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SURF One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SURF One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
