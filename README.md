@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .surf one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,134 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,134 domains · **Median ask:** $42.18 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,134 domains · **Median ask:** $29.62 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/surf`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/surf`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SURF one-word domain 
 
 ### Files
 
-- `surf.csv` — public CSV extract (1,000 rows)
-- `surf.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `surf.csv`, public CSV extract (1,000 rows)
+- `surf.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| Acup.surf       | available | $43.98    | —             | 80             | 5      | 5      | namecheap       |
-| barup.surf      | available | $43.98    | —             | 82             | 2      | 6      | namecheap       |
-| forces.surf     | available | $43.98    | —             | 82             | 12     | 6      | namecheap       |
-| geton.surf      | available | $43.98    | —             | 82             | 10     | 6      | namecheap       |
-| Apples.surf     | available | $43.98    | —             | 90             | 16     | 6      | namecheap       |
-| gearup.surf     | available | $43.98    | —             | 80             | 16     | 7      | namecheap       |
-| toneup.surf     | available | $43.98    | —             | 80             | 5      | 7      | namecheap       |
-| hangon.surf     | available | $43.98    | —             | 82             | 6      | 7      | namecheap       |
-| dogsick.surf    | available | $43.98    | —             | 90             | 1      | 7      | namecheap       |
-| leaveon.surf    | available | $43.98    | —             | 80             | 1      | 8      | namecheap       |
-| messages.surf   | available | $2.19     | $32.49        | 80             | 16     | 8      | namesilo        |
-| Snickers.surf   | available | $43.98    | —             | 80             | 10     | 8      | namecheap       |
-| insight.surf    | available | $43.98    | —             | 76             | 69     | 8      | namecheap       |
-| online.surf     | resell    | —         | —             | 70             | 62     | 7      | Spaceship, Inc. |
-| videos.surf     | premium   | $100      | —             | 52             | 30     | 6      | name.com        |
-| travelers.surf  | available | $2.19     | $32.49        | 58             | 61     | 9      | namesilo        |
-| apartments.surf | resell    | —         | —             | 60             | 21     | 10     | Spaceship, Inc. |
-| tips.surf       | premium   | $500      | —             | 80             | 26     | 4      | name.com        |
-| RedSox.surf     | available | $43.98    | —             | 72             | 60     | 7      | namecheap       |
-| houses.surf     | resell    | —         | —             | 66             | 18     | 6      | Spaceship, Inc. |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| okay.surf  | available | $2.19     | $32.49        | high           | low    | 4      | namesilo         |
+| feel.surf  | available | $2.19     | $32.49        | high           | low    | 4      | namesilo         |
+| ahuh.surf  | available | $2.19     | $32.49        | high           | low    | 4      | namesilo         |
+| dive.surf  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| aid.surf   | premium   | $500      | —             | medium         | low    | 3      | name.com         |
+| been.surf  | available | $2.19     | $32.49        | medium         | low    | 4      | namesilo         |
+| load.surf  | resell    | —         | —             | high           | low    | 4      | Porkbun          |
+| ala.surf   | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| chop.surf  | available | $2.19     | $32.49        | medium         | low    | 4      | namesilo         |
+| send.surf  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
+| ane.surf   | premium   | $47.20    | $29.50        | low            | low    | 3      | namesilo         |
+| ding.surf  | available | $43.98    | —             | medium         | low    | 4      | namecheap        |
+| elite.surf | resell    | —         | —             | high           | medium | 5      | Dynadot Inc      |
+| axe.surf   | premium   | $500      | —             | medium         | low    | 3      | name.com         |
+| down.surf  | available | $2.19     | $32.49        | high           | low    | 4      | namesilo         |
+| style.surf | resell    | —         | —             | high           | low    | 5      | Porkbun          |
+| BJP.surf   | premium   | $50       | —             | medium         | low    | 3      | name.com         |
+| eggs.surf  | available | $2.19     | $32.49        | high           | low    | 4      | namesilo         |
+| token.surf | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.  |
+| btw.surf   | premium   | $500      | —             | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .surf domains. The set includes dictionary-style words, action phrases, and category-adjacent terms such as WiFi.surf, matcha.surf, getup.surf, and jewels.surf. For founders, the main question is whether the word stays credible when paired with .surf; some names feel naturally aligned to movement, lifestyle, media, or niche brands, while others rely more on novelty. With a median ask around $42, the price point is relatively accessible, but extension fit still matters more than raw cost. When comparing these domains, favor names that are easy to say, easy to spell, and clearly ownable within a distinct brand position.
+This set covers one-word .surf domain names that are currently available to register, spanning short, single-token names across surf, ocean, lifestyle, and general brand themes. With a median asking price near $29.62, these domains sit in an accessible price range for early-stage founders securing an ownable name, while offering investors a low-cost entry point across a niche but growing TLD. Because .surf is not yet a mainstream extension, evaluating each name for spelling clarity, thematic fit, and renewal cost is essential before committing.
 
-- All names in this set use the .surf extension
-- Current selection size: 12,134 domains
-- Median ask is about $42 across this set
-- Best picks pair clear words with natural .surf fit
+- 12,134 one-word .surf domains available to register now
+- Median asking price: $29.62 per domain
+- Short, single-token names for surf, ocean & lifestyle brands
+- Compare renewal cost and brandability before you commit
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SURF One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SURF One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
