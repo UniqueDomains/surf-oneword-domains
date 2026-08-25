@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .surf one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,703 domains · **Median ask:** $17.42 · **High-demand under $2,500:** 14
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/surf`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| okay.surf  | available | $2.19     | $32.49        | high           | low    | 4      | namesilo         |
-| feel.surf  | available | $2.19     | $32.49        | high           | low    | 4      | namesilo         |
-| one.surf   | premium   | $250      | $45.99        | high           | medium | 3      | name.com         |
-| fuck.surf  | premium   | $47.20    | $29.50        | high           | high   | 4      | namesilo         |
-| wrong.surf | available | $2.19     | $32.49        | high           | low    | 5      | namesilo         |
-| count.surf | available | $2.19     | $32.49        | high           | low    | 5      | namesilo         |
-| ahuh.surf  | available | $2.19     | $32.49        | high           | low    | 4      | namesilo         |
-| dive.surf  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| aid.surf   | premium   | $500      | —             | medium         | low    | 3      | name.com         |
-| amok.surf  | available | $1.98     | $43.98        | low            | low    | 4      | namecheap        |
-| load.surf  | resell    | —         | —             | high           | low    | 4      | Porkbun          |
-| ala.surf   | premium   | $500      | —             | high           | low    | 3      | name.com         |
-| awny.surf  | available | $1.98     | $43.98        | low            | low    | 4      | namecheap        |
-| send.surf  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
-| ane.surf   | premium   | $47.20    | $29.50        | low            | low    | 3      | namesilo         |
-| been.surf  | available | $2.19     | $32.49        | medium         | low    | 4      | namesilo         |
-| elite.surf | resell    | —         | —             | high           | medium | 5      | Dynadot Inc      |
-| axe.surf   | premium   | $500      | —             | medium         | low    | 3      | name.com         |
-| chop.surf  | available | $2.19     | $32.49        | medium         | low    | 4      | namesilo         |
-| style.surf | resell    | —         | —             | high           | low    | 5      | Porkbun          |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| ahuh.surf   | available | $2.19     | $32.49        | high           | low    | 4      | namesilo         |
+| dive.surf   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| aid.surf    | premium   | $500      | —             | medium         | low    | 3      | name.com         |
+| amok.surf   | available | $1.98     | $43.98        | low            | low    | 4      | namecheap        |
+| load.surf   | resell    | —         | —             | high           | low    | 4      | Porkbun          |
+| ala.surf    | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| awny.surf   | available | $1.98     | $43.98        | low            | low    | 4      | namecheap        |
+| send.surf   | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
+| ane.surf    | premium   | $47.20    | $29.50        | low            | low    | 3      | namesilo         |
+| been.surf   | available | $2.19     | $32.49        | medium         | low    | 4      | namesilo         |
+| elite.surf  | resell    | —         | —             | high           | medium | 5      | Dynadot Inc      |
+| axe.surf    | premium   | $500      | —             | medium         | low    | 3      | name.com         |
+| chop.surf   | available | $2.19     | $32.49        | medium         | low    | 4      | namesilo         |
+| style.surf  | resell    | —         | —             | high           | low    | 5      | Porkbun          |
+| bay.surf    | premium   | $500      | $46.99        | low            | low    | 3      | name.com         |
+| cxxv.surf   | available | $1.98     | $43.98        | low            | low    | 4      | namecheap        |
+| token.surf  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.  |
+| BJP.surf    | premium   | $50       | —             | medium         | low    | 3      | name.com         |
+| ding.surf   | available | $43.98    | —             | medium         | low    | 4      | namecheap        |
+| street.surf | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SURF One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SURF One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
