@@ -1,10 +1,10 @@
-# Available .SURF One-Word Domains (23,662)
+# Available .SURF One-Word Domains (24,206)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C662%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C206%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .surf one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,662 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,206 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,662 domains · **Median ask:** $15.81 · **High-demand under $2,500:** 29
+**Public extract:** 1,000 rows · **Live catalog:** 24,206 domains · **Median ask:** $15.84 · **High-demand under $2,500:** 30
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/surf`
@@ -75,13 +75,13 @@ print(df.head())
 | apt.surf        | premium   | $52       | $32.50        | high           | low    | 3      | namecheap       |
 | alps.surf       | available | $2.19     | $32.49        | high           | low    | 4      | namesilo        |
 | magnet.surf     | resell    | —         | —             | high           | low    | 6      | NameCheap, Inc. |
-| asl.surf        | premium   | $52       | $32.50        | high           | low    | 3      | namecheap       |
+| atp.surf        | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo        |
 | alum.surf       | available | $1.98     | $43.98        | high           | low    | 4      | namecheap       |
 | trades.surf     | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc. |
-| atp.surf        | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo        |
+| bap.surf        | premium   | $52       | $32.50        | high           | low    | 3      | namecheap       |
 | amok.surf       | available | $1.98     | $43.98        | high           | low    | 4      | namecheap       |
 | campaign.surf   | resell    | —         | —             | high           | low    | 8      | Spaceship, Inc. |
-| bap.surf        | premium   | $52       | $32.50        | high           | low    | 3      | namecheap       |
+| boo.surf        | premium   | $500      | —             | high           | low    | 3      | name.com        |
 | arch.surf       | available | $2.19     | $32.49        | high           | medium | 4      | namesilo        |
 | navigation.surf | resell    | —         | —             | high           | low    | 10     | Spaceship, Inc. |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,662 live domains                        |
+| 1,000-row public sample | 24,206 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 29 high-demand names under $2,500          |
+| Basic exported fields   | 30 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
